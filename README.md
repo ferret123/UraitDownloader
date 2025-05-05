@@ -11,6 +11,6 @@
 # Работа с программой
 
 Вставить ссылку на книгу например
-*https://urait.ru/book/psihologicheskie-osnovy-vozhatskoy-deyatelnosti-557275*
+
 https://urait.ru/viewer/osnovy-teorii-nadezhnosti-560117
 После окончания скачивания, файл .pdf появится в папке с программой
